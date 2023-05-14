@@ -1,16 +1,1 @@
-# fikra
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this app is my first project with dart language and flutter learning how to do apps with this awesome cross-apps framework . i learn form this project how to play with widgets and properties (Containers - Column & Row - CircleAvatar - Images & Fonts - Card & ListTile)![screen_fikra](https://github.com/bwalidd/flutter_app_card/assets/90640697/c56e5410-20af-4065-a719-5f96dddf2f01)
